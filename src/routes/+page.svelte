@@ -12,15 +12,33 @@
   ];
 </script>
 
-<div class="container">
-  <h1>Jin Lee</h1>
-  <p>Welcome to my portfolio!</p>
-  <div>
-    <Tabs {items} />
+<body>
+  <div class="container">
+    <h1>Jin Lee</h1>
+    <p>Welcome to my portfolio! Thanks for dropping by.</p>
+    <div class="nav">
+      <a href="mailto:leejinbc@gmail.com">Email</a>
+      <a href="https://www.linkedin.com/in/jin-leebc/">LinkedIn</a>
+      <a href="https://www.jinlee.info">Blog</a>
+    </div>
+    <div>
+      <Tabs {items} />
+    </div>
   </div>
-</div>
+</body>
 
 <style>
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9em;
+  }
+
+  p {
+    color: #3f3f54;
+  }
+
   .container {
     padding: calc(8px + 1.5625vw);
   }
@@ -33,7 +51,12 @@
 
   @media (min-width: 900px) {
     .container {
-        padding: calc(8px + 1.5625vw);
+      padding: calc(8px + 1.5625vw);
     }
   }
+
+.nav a {
+  padding-right: 2em;
+}
+
 </style>
