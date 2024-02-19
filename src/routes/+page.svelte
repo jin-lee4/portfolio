@@ -29,30 +29,11 @@
 
 <style>
   body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     font-size: 0.9em;
   }
 
   p {
     color: #3f3f54;
-  }
-
-  .container {
-    padding: calc(8px + 1.5625vw);
-  }
-
-  @media (min-width: 600px) {
-    .container {
-      padding: calc(8px + 1.5625vw);
-    }
-  }
-
-  @media (min-width: 900px) {
-    .container {
-      padding: calc(8px + 1.5625vw);
-    }
   }
 
 .nav a {
