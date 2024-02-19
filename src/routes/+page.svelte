@@ -17,9 +17,9 @@
     <h1>Jin Lee</h1>
     <p>Welcome to my portfolio! Thanks for dropping by.</p>
     <div class="nav">
-      <a href="mailto:leejinbc@gmail.com">Email</a>
-      <a href="https://www.linkedin.com/in/jin-leebc/">LinkedIn</a>
-      <a href="https://www.jinlee.info">Blog</a>
+      <a href="mailto:leejinbc@gmail.com" target="_blank">Email</a>
+      <a href="https://www.linkedin.com/in/jin-leebc/" target="_blank">LinkedIn</a>
+      <a href="https://www.jinlee.info" target="_blank">Blog</a>
     </div>
     <div>
       <Tabs {items} />
