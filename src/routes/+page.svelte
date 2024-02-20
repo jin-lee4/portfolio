@@ -18,7 +18,9 @@
     <p>Welcome to my portfolio! Thanks for dropping by.</p>
     <div class="nav">
       <a href="mailto:leejinbc@gmail.com" target="_blank">Email</a>
-      <a href="https://www.linkedin.com/in/jin-leebc/" target="_blank">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/jin-leebc/" target="_blank"
+        >LinkedIn</a>
+      <a href="https://drive.google.com/file/d/1M3lBSjlZ77Y6hsEtyu89jPA6vIR-KxVR/view?usp=sharing" target="_blank">Resume</a>
       <a href="https://www.jinlee.info" target="_blank">Blog</a>
     </div>
     <div>
@@ -32,12 +34,18 @@
     font-size: 0.9em;
   }
 
+  .container {
+    padding: calc(8px + 1.5625vw);
+    overflow: auto;
+    width: 100%;
+  }
+
   p {
     color: #3f3f54;
   }
 
-.nav a {
-  padding-right: 2em;
-}
-
+  .nav a {
+    padding-right: 2em;
+    color: #4d8475;
+  }
 </style>
