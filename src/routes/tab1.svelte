@@ -41,20 +41,16 @@
 
 <style>
 
-  p {
-    color: #2b343b;
-  }
-
   #company {
     font-style: italic;
   }
 
-  .split {
+  /* .split {
     display: grid;
     grid-template-columns: 1fr 1fr;
-  }
+  } */
 
-  img {
+  /* img {
     border-radius: 1rem;
   }
 
@@ -71,6 +67,6 @@
     top: 17%;
     height: 60px;
     width: 4px;
-    background: #6878d7;
-  }
+    background: #6878d7; 
+  }*/
 </style>
