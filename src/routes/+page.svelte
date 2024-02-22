@@ -28,7 +28,7 @@
       <a href="mailto:leejinbc@gmail.com" target="_blank">Email</a>
       <a href="https://www.linkedin.com/in/jin-leebc/" target="_blank"
         >LinkedIn</a>
-      <a href="https://drive.google.com/file/d/1M3lBSjlZ77Y6hsEtyu89jPA6vIR-KxVR/view?usp=sharing"
+      <a href="/resume.pdf"
         target="_blank">Resume</a>
       <a href="https://www.jinlee.info" target="_blank">Blog</a>
     </div>
@@ -73,7 +73,7 @@
   :global(p) {
     color:var(--dark);
   }
-  
+
   .container {
     display: flex;
     flex-direction: column;
