@@ -4,6 +4,14 @@
 
 <h1>Relevant courses & schoolwork</h1>
 <div>
+  <h3>COGS 402: Research in Cognitive Systems</h3>
+  <p>May 2024 - Aug 2024</p>
+  <ul>
+    <li>Designing and developing a front-end interface for retrieval-augmented generation (RAG) framework that allows users to seamlessly query and interact with information</li>
+    <li>Deriving information from knowledge graphs, enhancing user ability to manipulate and understand underlying data</li>
+  </ul>
+</div>
+<div>
   <h3>INFO 300: Information and Data Design</h3>
   <p>Jan 2024 - Present</p>
   <ul>

@@ -1,4 +1,15 @@
-<h1>Relevant work experience</h1>
+<h1>Relevant experience</h1>
+<!--SPIN Lab-->
+<div>
+  <h3>Frontend Developer (Volunteer)</h3>
+  <h3 id="company">UBC Sensory Perception & Interaction Research Group</h3>
+  <p>May 2024 -</p>
+  <ul>
+    <li>Developing accessible interface for study participants to customize Arduino behaviors without code using Blocklyduino and C++</li>
+    <li>Customizing Blockly interface with extensions and open-source resources, addressing unique needs of study</li>
+    <li>Integrating instructions with Blocklyduino interface on web application to seamlessly guide participants through study</li>
+  </ul>
+</div>
 <!--Samsung-->
 <div>
   <h3>Global Web Community and Content Administrator</h3>
